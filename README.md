@@ -1,1 +1,1 @@
-# Pacakage_Prediction_Tourism
+# Package_Prediction_Tourism
